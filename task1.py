@@ -1,0 +1,8 @@
+print("Welcome to python program:")
+Name = input("Enter your name :")
+Collage = input("Enter your collage name :")
+Branch = input("Enter your branch :")
+print("\n...Information...")
+print("Name :",Name)
+print("Collage :",Collage)
+print("Branch :",Branch)

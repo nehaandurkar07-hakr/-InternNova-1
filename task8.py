@@ -1,0 +1,6 @@
+f = open("intro.txt","w")
+f.write("My name is Neha.\nI am a BCA student.")
+f.close()
+f = open("intro.txt","r")
+print(f.read())
+f.close()
